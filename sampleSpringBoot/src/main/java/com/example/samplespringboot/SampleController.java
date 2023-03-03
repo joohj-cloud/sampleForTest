@@ -26,4 +26,18 @@ public class SampleController {
         log.info("main-test");
         return customer;
     }
+
+    @GetMapping("/test")
+    public Customer getCustomerTest(@RequestParam String name, @RequestParam String email ){
+        Customer customer = new Customer();
+        customer.setName(name);
+        customer.setAge(100);
+        customer.setEmail(email);
+
+        log.info("[INFO] customer name = {}, age = {}", customer.getName(), customer.getEmail());
+
+        log.info("test");
+        return customer;
+    }
+
 }
