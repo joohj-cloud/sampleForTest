@@ -24,6 +24,7 @@ public class SampleController {
 
         log.info("[INFO] customer name = {}, age = {}", customer.getName(), customer.getEmail());
 
+        log.info("test");
         return customer;
     }
 }
