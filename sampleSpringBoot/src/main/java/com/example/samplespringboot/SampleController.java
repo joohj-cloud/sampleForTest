@@ -23,8 +23,7 @@ public class SampleController {
         customer.setEmail(email);
 
         log.info("[INFO] customer name = {}, age = {}", customer.getName(), customer.getEmail());
-
-        log.info("test");
+        log.info("main-test");
         return customer;
     }
 }
