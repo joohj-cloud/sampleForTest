@@ -1,14 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e49556a-bd13-452e-b63e-5fc408460910" name="Changes" comment="" />
+    <list default="true" id="2e49556a-bd13-452e-b63e-5fc408460910" name="Changes" comment="add dockerfile">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sampleForTest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sampleSpringBoot/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sampleSpringBoot/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sampleSpringBoot/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sampleSpringBoot/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sampleSpringBoot/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sampleSpringBoot/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sampleSpringBoot/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sampleSpringBoot/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sampleSpringBoot/src/main/java/com/example/samplespringboot/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sampleSpringBoot/src/main/java/com/example/samplespringboot/SampleController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sampleSpringBoot/src/main/java/com/example/samplespringboot/SampleSpringBootApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sampleSpringBoot/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sampleSpringBoot/src/test/java/com/example/samplespringboot/SampleSpringBootApplicationTests.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main-test" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2KtF5d80nAYlKYI5nMsGzkZQSmP" />
   <component name="ProjectViewState">
@@ -20,12 +66,26 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "project.structure.last.edited": "Modules",
+    "last_opened_file_path": "/Users/nhn/IdeaProjects/sampleForTest",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="SampleSpringBootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="sampleSpringBoot.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.samplespringboot.SampleSpringBootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,10 +95,35 @@
       <option name="presentableId" value="Default" />
       <updated>1674785789517</updated>
       <workItem from="1674785790667" duration="18000" />
+      <workItem from="1676879126165" duration="1058000" />
+      <workItem from="1678602780805" duration="1302000" />
     </task>
+    <task id="LOCAL-00001" summary="add dockerfile">
+      <created>1678602802065</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678602802065</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add dockerfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="add dockerfile" />
   </component>
 </project>
